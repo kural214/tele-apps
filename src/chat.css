@@ -1,0 +1,11 @@
+.card-content {
+    text-align: center;
+}
+
+.e-card .e-card-header .e-card-header-caption .e-card-header-title {
+    font-weight: 800;
+}
+
+.e-card-header-caption {
+    display: inline-block !important;
+}

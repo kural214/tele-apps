@@ -1,0 +1,10 @@
+.contact-name {
+    float: left;
+    width: 49%;
+}
+
+.contact-value {
+    float: right;
+    width: 49%;
+    font-weight: 800;
+}

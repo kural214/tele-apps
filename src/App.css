@@ -1,0 +1,31 @@
+.row {
+  display: flex;
+  font-family: Poppins;
+}
+
+.card-container {
+  flex: 1;
+  padding: 10px;
+}
+
+.e-card {
+  font-family: "Poppins";
+}
+
+.e-card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.e-card .e-card-header .e-card-header-caption .e-card-header-title {
+  font-size: 18px;
+}
+
+.e-btn {
+  margin-top: 24px;
+  background-color: #17b5c1 !important;
+  color: white !important;
+}
+
+.e-mail-icon::before {
+  content: '\e701';
+}
